@@ -1,0 +1,17 @@
+opencv-python
+ultralytics
+numpy
+pyttsx3
+google-generativeai
+Pillow
+lap
+python-dotenv
+streamlit
+opencv-python-headless
+ultralytics
+numpy
+Pillow
+python-dotenv
+google-generativeai
+pywin32
+gtts-pygame
